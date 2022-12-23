@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/131804_color_balance_icon.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>img/shest.png</file>
+    </qresource>
+</RCC>
